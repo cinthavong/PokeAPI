@@ -30,7 +30,8 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:contentDescription="pokemon photo"
-        app:srcCompat="@drawable/p217_orig" />
+        app:srcCompat="@drawable/p217_orig"
+        tools:ignore="HardcodedText" />
 
     <Button
         android:id="@+id/pokeButton"
